@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Adila Arshad</h1>
-<img src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" width=400 height=400 justify="center"/>
 <h3 align="center">I am a **Frontend Engineer** specializing in building and designing exceptional digital experiences. Currently, I’m focused on building responsive front-end web applications using React.js and Next.js.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilavirk&label=Profile%20views&color=0e75b6&style=flat" alt="adilavirk" /> </p>
